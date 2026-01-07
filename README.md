@@ -42,3 +42,6 @@ Example command:
 - `-s all` means to capture all static resource files.
 - `-m 3` means to recursively crawl up to 3 layers of URLs.
 - `-o` specifies the output file path.
+
+
+[![DOI](https://zenodo.org/badge/1029507893.svg)](https://doi.org/10.5281/zenodo.18175222)
