@@ -44,4 +44,4 @@ Example command:
 - `-o` specifies the output file path.
 
 
-[![DOI](https://zenodo.org/badge/1029507893.svg)](https://doi.org/10.5281/zenodo.18175222)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18175223.svg)](https://doi.org/10.5281/zenodo.18175223)
